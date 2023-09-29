@@ -1,0 +1,30 @@
+29/8/23
+
+Data
+- Factual information
+Database
+- collection of data in form of tables
+ER Diagram
+- graphical representation of database 
+Types of keys
+- primary key, candidate key, foreign key, super key
+Normalization
+- 1NF : Not multi valued
+- 2NF : No partial dependency, non-key X partial primary key attribute
+- 3NF : No transitive dependency, non-key X non-key attribute
+- BCNF : No functional dependency
+Denormalization
+Case Study on ER Diagram
+Case Study on Normalization
+Dimension modeling (star, snowflake)
+Slowly Changing Dimension (Type 1,2,3)
+
+30/8/23
+
+Overview of Big Data
+4V
+Data Warehouse
+Network Security
+IaaS, PaaS, SaaS
+Cloud Fundamentals
+Azure Fundamentals

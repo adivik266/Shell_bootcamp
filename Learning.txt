@@ -1,0 +1,24 @@
+
+Azure Data Factory
+Pipeline activities - Data flow, Append variable, Delete, Get metadata, Lookup, WebHook
+Maximum 40 activities can be in a pipeline
+Chaining pipeline using 'Execute Pipeline'
+Hands on experience to create data storage and azure factory and perfrom the copy operation in pipeline
+Different types of triggers
+
+Azure Synapse Analytics
+SQL pool - serverless and dedicated
+CTE in SQL - CTEs act as virtual tables that are created during query execution, used by the query, and deleted after the query executes.
+Apache Spark Pool
+
+Functions
+Function composition
+Recursion
+Generator
+Decorator
+Types of Argument
+Class and Object
+Timestamp
+Exception Handling
+List comprehension
+Lambda function
